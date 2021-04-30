@@ -1,5 +1,5 @@
 # Microsoft Edge and Chromium Open Source: Our Intent
-Authors: Microsoft Edge Team  
+Authors: Microsoft Edge Team   
 Last Updated: 2018-12-06
 
 ## Why this document 
